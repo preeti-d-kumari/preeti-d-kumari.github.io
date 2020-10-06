@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preeti Kumari on Preeti Kumari</title>
+    <link>https://umangsbhatt.github.io/</link>
+    <description>Recent content in Preeti Kumari on Preeti Kumari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diagnostic Model Explanations: A Medical Narrative</title>
+      <link>https://umangsbhatt.github.io/publication/iaw2019/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://umangsbhatt.github.io/publication/iaw2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIF: A Framework for Quantifying Neural Information Flow in Deep Networks</title>
+      <link>https://umangsbhatt.github.io/publication/nif18/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>https://umangsbhatt.github.io/publication/nif18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Aggregating Weighted Feature Attributions</title>
+      <link>https://umangsbhatt.github.io/publication/ava18/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://umangsbhatt.github.io/publication/ava18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Human-Machine Trust via Interpretability</title>
+      <link>https://umangsbhatt.github.io/publication/ava_abs19/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://umangsbhatt.github.io/publication/ava_abs19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Humanoid Affect Expression on Human Behavior in Game-Theoretic Setting</title>
+      <link>https://umangsbhatt.github.io/publication/hai18/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://umangsbhatt.github.io/publication/hai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintaining the Humanity of Our Models</title>
+      <link>https://umangsbhatt.github.io/publication/aaai_sss18/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://umangsbhatt.github.io/publication/aaai_sss18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Pothole Detection and Road Condition Assessment</title>
+      <link>https://umangsbhatt.github.io/publication/d4gx17/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://umangsbhatt.github.io/publication/d4gx17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
